@@ -169,3 +169,7 @@ C:\Users\Hiro\FinancasCompleto\Financas\Financas\obj\Debug\Financas.csproj.Gener
 C:\Users\Hiro\FinancasCompleto\Financas\Financas\obj\Debug\Financas.csproj.CoreCompileInputs.cache
 C:\Users\Hiro\FinancasCompleto\Financas\Financas\obj\Debug\Financas.dll
 C:\Users\Hiro\FinancasCompleto\Financas\Financas\obj\Debug\Financas.pdb
+C:\Users\Hiro\FinancasCompleto\Financas\Financas\bin\WebMatrix.Data.dll
+C:\Users\Hiro\FinancasCompleto\Financas\Financas\bin\WebMatrix.WebData.dll
+C:\Users\Hiro\FinancasCompleto\Financas\Financas\bin\WebMatrix.WebData.xml
+C:\Users\Hiro\FinancasCompleto\Financas\Financas\bin\WebMatrix.Data.xml
